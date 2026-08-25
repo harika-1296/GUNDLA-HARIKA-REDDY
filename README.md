@@ -172,6 +172,8 @@ I'm working on improving my:
 
 ## 📫 Let's Connect
 
+LinkedIn : https://www.linkedin.com/in/gundla-harika-reddy-613111332/
+
 I'm always open to learning, collaborating on interesting projects, and connecting with people interested in **Machine Learning, AI, and Data Science**.
 
 **GitHub:** You're already here — feel free to explore my repositories and projects.
