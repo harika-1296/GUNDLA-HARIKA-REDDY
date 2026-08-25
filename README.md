@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harika Reddy Gundla
+# 👋 Hi, I'm Gundla Harika Reddy 
 
 ### Aspiring Machine Learning Engineer | B.Tech Student | AI/ML Enthusiast
 
